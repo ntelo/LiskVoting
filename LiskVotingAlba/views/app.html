@@ -1,0 +1,129 @@
+﻿<template>
+
+    <header class="navbar navbar-light brand-dark">
+        <button class="navbar-toggler mobile-toggler hidden-lg-up" type="button">&#9776;</button>
+        <a class="navbar-brand" href="#"></a>
+       
+        <button class="navbar-toggler layout-toggler hidden-md-down" type="button" data-before="sidebar-nav" data-after="sidebar-nav compact-nav">&#9776;</button>
+     
+        <ul class="nav navbar-nav pull-right hidden-md-down">
+          
+            <li class="nav-item dropdown">
+              
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    <img src="assets/img/flags/United-Kingdom.png" class="img-flag" alt="English">
+                </a>
+                <div class="dropdown-menu dropdown-menu-right">
+                    <div class="dropdown-header text-xs-center">
+                        <strong>Choose language</strong>
+                    </div>
+                    <!--<a class="dropdown-item" href="#">
+                        <img src="assets/img/flags/Poland.png" class="img-flag" alt="Polish"> Polish
+                    </a>-->
+                    <a class="dropdown-item" href="#">
+                        <img src="assets/img/flags/United-Kingdom.png" class="img-flag" alt="English"> English
+                    </a>
+                    <!--<a class="dropdown-item" href="#">
+                        <img src="assets/img/flags/Spain.png" class="img-flag" alt="Espa&#xF1;ol"> Español
+                    </a>-->
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><i class="icon-bell"></i><span class="label label-pill label-danger">0</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><i class="icon-list"></i></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#"><i class="icon-location-pin"></i></a>
+            </li>
+
+        </ul>
+      
+    </header>
+ 
+    <nav id="navigation" class="collapse navbar-toggleable-sm nav-dark">
+        <div id="navigation-items">
+            <ul class="nav">
+                <li class="nav-title">
+                    Dashboard
+                </li>
+                <li class="nav-item">
+                    <a id="dashboard" class="nav-link active" click.trigger="gopage('dashboard')"><i class="icon-speedometer"></i> DASHBOARD <!--<span class="label label-info">NEW</span>--></a>
+                </li>
+                <li class="nav-item">
+                    <a id="peers" class="nav-link active" click.trigger="gopage('peers')"><i class="icon-feed"></i> PEERS BLOCKS <!--<span class="label label-info">NEW</span>--></a>
+                </li>
+              <!--
+                <li class="nav-item">
+                    <a id="accounts" class="nav-link active" click.trigger="gopage('accounts')"><i class="icon-user-following"></i> ACCOUNTS</a>
+                </li>-->
+                <li class="divider"></li>
+                <!--  
+                <li class="nav-title">
+                    Statistics
+                </li>
+                <li class="nav-item nav-dropdown">
+                    <a class="nav-link nav-dropdown-toggle" href="#"><i class="icon-calendar"></i> Last 48 h</a>
+                    <ul class="nav-dropdown-items">
+                        <li class="nav-item">
+                            <a id="nodestatsforgers" class="nav-link" click.trigger="gopage('nodestatsforgers')"><i class="icon-energy"></i> Forging</a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="nodestatsblocks" class="nav-link" click.trigger="gopage('nodestatsblocks')"><i class="icon-layers"></i> Blocks</a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="nodestatsvotes" class="nav-link" click.trigger="gopage('nodestatsvotes')"><i class="icon-star"></i> Votes</a>
+                        </li>
+                    </ul>
+                </li>
+                    -->
+                <li class="nav-title">
+                    VOTES
+                </li>
+                <li class="nav-item nav-dropdown">
+                    <a class="nav-link nav-dropdown-toggle" href="#"><i class="icon-calculator"></i> VOTES </a>
+                    <ul class="nav-dropdown-items">
+                        <li class="nav-item">
+                            <a id="home" class="nav-link" click.trigger="gopage('home')"><i class="icon-action-redo"></i>RECEIVED </a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="delegates" class="nav-link" click.trigger="gopage('delegates')"><i class="icon-action-undo"></i> MADE </a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="top202" class="nav-link" click.trigger="gopage('top202')"><i class="icon-chart"></i> Top 202 </a>
+                        </li>
+
+                    </ul>
+                </li>
+
+            </ul>
+
+
+        </div>
+    </nav>
+    <!-- Main content -->
+    <main id="content">
+    
+        
+        <div class="container-fluid">
+            <div class="page-host">
+        <router-view></router-view>
+          </div>
+
+        </div>
+        <!-- /.conainer-fluid -->
+    </main>
+    <footer id="footer">
+        <span class="text-left">
+           VOTE IN <b class="text-danger">NTELO</b> DELEGATE.
+        </span>
+        <span class="pull-right">
+            Please Donate to Lisk Address <b class="text-danger">6591847179194671762L</b>
+        </span>
+    </footer>
+
+ 
+    
+
+</template>

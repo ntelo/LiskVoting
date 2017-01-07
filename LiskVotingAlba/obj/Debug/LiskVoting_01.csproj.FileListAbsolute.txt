@@ -1,0 +1,41 @@
+D:\Lisk Development\DelegateVotes\LiskVotingAlba\obj\Debug\LiskVoting_01.csprojResolveAssemblyReference.cache
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\aurelia-vs-ts.dll.config
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\aurelia-vs-ts.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\aurelia-vs-ts.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\LiskApiWrapper.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\LiskSqlDatabase.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\RestSharp.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\Npgsql.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\Newtonsoft.Json.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\LiskApiWrapper.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\LiskSqlDatabase.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\RestSharp.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\Npgsql.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\bin\Newtonsoft.Json.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\obj\Debug\LiskVoting_01.csprojResolveAssemblyReference.cache
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\obj\Debug\aurelia-vs-ts.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskVotingAlba\obj\Debug\aurelia-vs-ts.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\bin\aurelia-vs-ts.dll.config
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\bin\aurelia-vs-ts.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\bin\aurelia-vs-ts.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\bin\LiskApiWrapper.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\bin\RestSharp.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\bin\Newtonsoft.Json.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\bin\LiskApiWrapper.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\bin\RestSharp.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\bin\Newtonsoft.Json.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\obj\Debug\LiskVoting_01.csprojResolveAssemblyReference.cache
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\obj\Debug\aurelia-vs-ts.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\obj\Debug\aurelia-vs-ts.pdb
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\bin\aurelia-vs-ts.dll.config
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\bin\aurelia-vs-ts.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\bin\aurelia-vs-ts.pdb
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\bin\LiskApiWrapper.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\bin\RestSharp.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\bin\Newtonsoft.Json.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\bin\LiskApiWrapper.pdb
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\bin\RestSharp.xml
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\bin\Newtonsoft.Json.xml
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\obj\Debug\LiskVoting_01.csprojResolveAssemblyReference.cache
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\obj\Debug\aurelia-vs-ts.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\obj\Debug\aurelia-vs-ts.pdb

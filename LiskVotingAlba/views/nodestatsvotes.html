@@ -1,0 +1,48 @@
+﻿<template>
+
+
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="card">
+                <div class="card-header">
+                    <strong>${heading}</strong>
+                    <strong>${processing}</strong>
+                </div>
+                <div class="card-block">
+                    <div class="row">
+                        <div class="input-group">
+                            <input type="text" value.bind="liskAddr" class="form-control" id="fn" placeholder="Enter lisk Address">
+                            <span class="input-group-btn">
+                                <button type="submit" click.trigger="GetEvolutionStats()" class="btn btn-primary">Get Stats</button>
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div id="votesmade"></div>
+                </div>
+                <div class="col-md-6">
+                    <div id="votesreceived"></div>
+                </div>
+
+            </div>
+
+
+
+
+
+        </div>
+
+    </div>
+
+
+        
+</template>

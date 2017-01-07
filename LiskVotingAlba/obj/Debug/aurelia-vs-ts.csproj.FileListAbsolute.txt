@@ -1,0 +1,12 @@
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\aurelia-vs-ts.dll.config
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\aurelia-vs-ts.dll
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\aurelia-vs-ts.pdb
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\LiskApiWrapper.dll
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\LiskSqlDatabase.dll
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\Newtonsoft.Json.dll
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\LiskApiWrapper.pdb
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\LiskSqlDatabase.pdb
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\Newtonsoft.Json.xml
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\obj\Debug\aurelia-vs-ts.csprojResolveAssemblyReference.cache
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\obj\Debug\aurelia-vs-ts.dll
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\obj\Debug\aurelia-vs-ts.pdb

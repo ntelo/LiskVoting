@@ -1,0 +1,39 @@
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\peers.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\app.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\app-state.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\appServices.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\accounts.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\nodestatsvotes.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\nodestatsblocks.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\nodestatsforgers.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\dashboard.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\top202.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\delegates.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\home.js
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskVotingAlba\views\main.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\peers.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\app.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\app-state.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\appServices.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\accounts.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\nodestatsvotes.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\nodestatsblocks.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\nodestatsforgers.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\dashboard.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\top202.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\delegates.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\home.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\main.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\peers.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\app.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\app-state.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\appServices.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\accounts.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\nodestatsvotes.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\nodestatsblocks.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\nodestatsforgers.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\dashboard.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\top202.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\delegates.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\home.js
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskVotingAlba\views\main.js

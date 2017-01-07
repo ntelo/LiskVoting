@@ -1,0 +1,51 @@
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskApiWrapper.dll.config
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskApiWrapper.dll
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskApiWrapper.pdb
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskSqlDatabase.dll
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\Newtonsoft.Json.dll
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\Npgsql.dll
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\RestSharp.dll
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskSqlDatabase.pdb
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\Newtonsoft.Json.xml
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\Npgsql.xml
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\RestSharp.xml
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\obj\Debug\LiskApiWrapper.csprojResolveAssemblyReference.cache
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\obj\Debug\LiskApiWrapper.dll
+D:\Lisk Development\DelegateVotes\LiskApiWrapper\obj\Debug\LiskApiWrapper.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskApiWrapper.dll.config
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskApiWrapper.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskApiWrapper.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskSqlDatabase.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\Newtonsoft.Json.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\Npgsql.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\RestSharp.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\LiskSqlDatabase.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\Newtonsoft.Json.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\Npgsql.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\bin\Debug\RestSharp.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\obj\Debug\LiskApiWrapper.csprojResolveAssemblyReference.cache
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\obj\Debug\LiskApiWrapper.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\DelegateVotes\LiskApiWrapper\obj\Debug\LiskApiWrapper.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\bin\Debug\LiskApiWrapper.dll.config
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\bin\Debug\LiskApiWrapper.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\bin\Debug\LiskApiWrapper.pdb
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\bin\Debug\Newtonsoft.Json.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\bin\Debug\Npgsql.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\bin\Debug\RestSharp.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\bin\Debug\Newtonsoft.Json.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\bin\Debug\Npgsql.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\bin\Debug\RestSharp.xml
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\obj\Debug\LiskApiWrapper.dll
+D:\ONE DRIVE PERSONAL\Lisk Development\LiskVoting\LiskApiWrapper\obj\Debug\LiskApiWrapper.pdb
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\bin\Debug\LiskApiWrapper.dll.config
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\bin\Debug\LiskApiWrapper.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\bin\Debug\LiskApiWrapper.pdb
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\bin\Debug\Npgsql.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\bin\Debug\RestSharp.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\bin\Debug\Npgsql.xml
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\bin\Debug\RestSharp.xml
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\obj\Debug\LiskApiWrapper.csprojResolveAssemblyReference.cache
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\obj\Debug\LiskApiWrapper.dll
+C:\Users\nunotelo\Documents\GitHub\LiskVoting\LiskApiWrapper\obj\Debug\LiskApiWrapper.pdb

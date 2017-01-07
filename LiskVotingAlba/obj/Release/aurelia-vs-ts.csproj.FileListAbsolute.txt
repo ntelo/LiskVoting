@@ -1,0 +1,5 @@
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\aurelia-vs-ts.dll.config
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\aurelia-vs-ts.dll
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\bin\aurelia-vs-ts.pdb
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\obj\Release\aurelia-vs-ts.dll
+D:\Lisk Development\DelegateVotes\aurelia-vs-ts\obj\Release\aurelia-vs-ts.pdb
